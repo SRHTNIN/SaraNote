@@ -1,0 +1,18 @@
+{
+    "Folders": {
+        "Categories": "Categories",
+        "Items": "Items",
+        "Data": ".Data"
+    },
+
+    "Defaults": {
+        "FormatFileName": "Format.md",
+        "FormatFile": "Format.md",
+        "ParametersFileName": "Parameters.json",
+        "ParametersFile": "Parameters.json"
+    },
+
+    "Editor": null,
+    "ClearScreen": true,
+    "CaseSensitiveSearch": false
+}
