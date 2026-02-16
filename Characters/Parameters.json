@@ -1,0 +1,14 @@
+{
+    "Parameters": [
+        "Title",
+        "Name",
+        "Age",
+        "Gender",
+        "Pronouns",
+        "Alignment",
+        "Tags",
+        "Powers",
+        "Appearance",
+        "Description"
+    ]
+}

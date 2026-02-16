@@ -1,0 +1,13 @@
+#Roguelite #Dungeon-crawler #RPG #Farming
+
+Urbalich
+Dimension: 2D
+Viewpoint: Top-down
+Mechanic: Growing plants to become more powerful
+Main Character: The Urbalich
+
+Gameplay Loop:
+Plant for stats -> Go into dung-> Find seeds
+
+Description:
+There are two main areas. The farmland of the Urbalich, and the dungeon. The farmland is similar to cookie clicker's farming minigame, but the difference is that you gain stats from different types of plants. The dungeon is similar to the dungeon in tiny rogues and the binding of Isaac. You get seeds and experience from the dungeon, which you bring back to your farm, to become stronger, to get more rare seeds from the dungeon, and so on. The final boss has a princess that the Urbalich has been dreaming of, but the princess has already slain the boss. The Urbalich must outlive or kill the princess.

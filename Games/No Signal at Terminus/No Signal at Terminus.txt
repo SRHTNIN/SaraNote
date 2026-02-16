@@ -1,0 +1,13 @@
+#Eerie #Roguelike #Horror #Management
+
+No Signal at Terminus
+Dimension: 3D
+Viewpoint: First person
+Mechanic: Conducting a train and having to manage resources and customers.
+Main Character: The Conductress
+
+Gameplay Loop:
+Upgrade train and get customers at station -> Drive to correct stops -> Explore -> Survive threats ->/
+
+Description:
+You, the conductress, have been assigned to drive BT07 so that all passengers, no matter who they are, may arrive on schedule.

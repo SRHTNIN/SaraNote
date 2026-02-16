@@ -1,0 +1,12 @@
+{
+    "Parameters": [
+        "Title",
+        "Name",
+        "Parent",
+        "Size",
+        "Temperature",
+        "Appearance",
+        "Description",
+        "Tags"
+    ]
+}

@@ -1,0 +1,13 @@
+#Test
+
+Test
+Dimension: Test
+Viewpoint: Test
+Mechanic: Test
+Main Character: Sturle
+
+Gameplay Loop:
+Test
+
+Description:
+Test

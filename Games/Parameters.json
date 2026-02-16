@@ -1,0 +1,12 @@
+{
+    "Parameters": [
+        "Title",
+        "Tags",
+        "Dimension",
+        "Viewpoint",
+        "Mechanic",
+        "MainChar",
+        "GameplayLoop",
+        "Description"
+    ]
+}
