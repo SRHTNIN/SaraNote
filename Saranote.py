@@ -43,7 +43,7 @@ def ChooseOption(Prompt, Options):
 
 def Main():
     DirBase = os.path.dirname(os.path.abspath(__file__))
-    ToolsDir = os.path.join(DirBase, "Tools")
+    ToolsDir = os.path.join(DirBase, ".Tools")
 
     while True:
         Tools = FindTools(ToolsDir)

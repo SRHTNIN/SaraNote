@@ -1,7 +1,5 @@
 #%Title%
 
-###%Name%
-
 %Appearance%
 
 ---------------
