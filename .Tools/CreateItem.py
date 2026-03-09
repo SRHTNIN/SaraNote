@@ -86,8 +86,8 @@ def CreateItem(CategoryPath):
     for Field in Fields:
         ItemData[Field] = PromptValue(Field)
 
-    Title = ItemData.get("Title", "Untitled")
-    OutputPath = os.path.join(ItemsPath, f"{Title}.md")
+    FileName = ItemData.get("FileName", "UnFileNamed")
+    OutputPath = os.path.join(ItemsPath, f"{FileName}.md")
 
     os.makedirs(ItemsPath, exist_ok=True)
 
